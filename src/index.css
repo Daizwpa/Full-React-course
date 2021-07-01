@@ -13,3 +13,7 @@
 section{
     overflow: hidden;
 }
+img{
+    width: 120px;
+    height: 250px;
+}
